@@ -1,6 +1,6 @@
 ## Welcome to CRUD web repository. This repo offers various math methods those are used as a helper for your project
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hoangnguyen-w_demo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=hoangnguyen-w_demo)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=hoangnguyen-w_demo)](https://sonarcloud.io/dashboard?id=hoangnguyen-w_demo)
 
 ### *_You will find in this repo the floowing stuff:_*
 * Here is a model 2 MVC web post with simple CRUD functions
